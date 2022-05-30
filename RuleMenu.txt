@@ -1,0 +1,21 @@
+###############################################################################
+#                                                                             #
+#                                                                             #
+#     WELCOME TO HANGMAN!                                                     #
+#                                                                             #
+#     IN THIS GAME, YOUR TASK IS TO GUESS LETTERS                             #
+#     OF A RANDOMLY GENERATED WORD AND NOT TO GET                             #
+#     HANGED!                       	                                      #
+#                                                                             #
+#     IN TOTAL, YOU CAN FAIL SEVEN TIMES. EIGHTH                              #
+#     FAILED ATTEMPT WILL GET YOU HANGED.                                     #
+#                                                                             #
+#                                                                             #
+#                                                                             #
+#                                                                             #
+#                          PRESS ANY KEY TO CONTINUE                          #
+#                                                                             #
+#                                                                             #
+#                                                                             #
+#                                                                             #
+###############################################################################
